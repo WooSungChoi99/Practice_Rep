@@ -1,1 +1,2 @@
-# first-repository
+echo를 사용한 마크다운 작성
+nano를 사용한 마크다운 작성
